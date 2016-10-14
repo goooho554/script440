@@ -153,3 +153,4 @@ function a_to_fa() {
     a_to_vf = protected_links.split(",");
     return a_to_vf;
 }
+auto_safelink();
